@@ -1,0 +1,314 @@
+{
+  "siteName": "Jap App Hub — Learn",
+  "siteUrl": "https://japapp.github.io/japapp/react-version/",
+  "defaultImage": "https://japapp.github.io/japapp/react-version/og-default.png",
+  "routes": {
+    "/": {
+      "title": "Learn a New Language — Start Here | Jap App Hub",
+      "description": "38 free offline programming guides, tips, quizzes and case problems. Pick a language, read its first sentence, then stay for the full course.",
+      "keywords": "learn programming, free coding guides, offline tutorials, PHP, Python, JavaScript, Laravel, React, interview prep",
+      "ogTitle": "Learn a New Language — Start Here",
+      "ogDescription": "38 free offline programming guides, tips, quizzes and case problems. No sign-up, no tracking.",
+      "type": "website"
+    },
+    "/quiz": {
+      "title": "Interview Quiz — 150+ Flashcards | Jap App Hub",
+      "description": "Flashcard-style interview quiz with 150+ PHP, Laravel and full-stack questions. Filter by difficulty, experience level and category. Track your progress.",
+      "keywords": "interview quiz, flashcards, PHP interview, Laravel interview, full-stack quiz, coding questions",
+      "ogTitle": "Interview Quiz — 150+ Flashcards",
+      "ogDescription": "Flashcard-style interview quiz with 150+ PHP, Laravel and full-stack questions.",
+      "type": "website"
+    },
+    "/mcq": {
+      "title": "Practice MCQ — Multiple Choice Questions | Jap App Hub",
+      "description": "Multiple-choice practice from real case problems. Instant feedback, score tracking and difficulty filters for PHP, Laravel and architecture.",
+      "keywords": "MCQ practice, multiple choice questions, PHP MCQ, Laravel MCQ, coding practice, quiz",
+      "ogTitle": "Practice MCQ — Multiple Choice Questions",
+      "ogDescription": "Multiple-choice practice from real case problems with instant feedback.",
+      "type": "website"
+    },
+    "/cases": {
+      "title": "Coding Case Problems — Architecture Practice | Jap App Hub",
+      "description": "90+ architecture case problems with solutions. Multi-tenant SaaS, API design, caching strategies and more. Think before you peek.",
+      "keywords": "case problems, architecture practice, system design, coding challenges, PHP architecture, Laravel patterns",
+      "ogTitle": "Coding Case Problems — Architecture Practice",
+      "ogDescription": "90+ architecture case problems with solutions. Think before you peek.",
+      "type": "website"
+    }
+  },
+  "guides": {
+    "html-css": {
+      "title": "HTML + CSS — Complete Guide | Jap App Hub",
+      "description": "Learn HTML tags, semantic markup and CSS styling from scratch. The foundation every web developer needs.",
+      "keywords": "HTML tutorial, CSS guide, learn HTML, learn CSS, web development basics, beginner web design",
+      "ogTitle": "HTML + CSS — Complete Guide",
+      "ogDescription": "Learn HTML tags, semantic markup and CSS styling from scratch."
+    },
+    "javascript-jquery": {
+      "title": "JavaScript + jQuery — Complete Guide | Jap App Hub",
+      "description": "Variables, DOM manipulation, events and fetch. The language every website speaks, plus jQuery shortcuts.",
+      "keywords": "JavaScript tutorial, jQuery guide, learn JavaScript, DOM manipulation, frontend development",
+      "ogTitle": "JavaScript + jQuery — Complete Guide",
+      "ogDescription": "Variables, DOM manipulation, events and fetch. The language every website speaks."
+    },
+    "python": {
+      "title": "Python 3.14 — Complete Guide | Jap App Hub",
+      "description": "Short lines, readable words. From print() to data structures, OOP and automation. The gentlest first language.",
+      "keywords": "Python tutorial, learn Python, Python 3, Python for beginners, data science, automation",
+      "ogTitle": "Python 3.14 — Complete Guide",
+      "ogDescription": "Short lines, readable words. From print() to data structures, OOP and automation."
+    },
+    "phplearn": {
+      "title": "PHP, Deeply — Beginner to Advanced | Jap App Hub",
+      "description": "One long road from echo to OOP, security, PDO and 70 practice questions. The complete PHP course.",
+      "keywords": "PHP tutorial, learn PHP, PHP OOP, PHP security, PHP beginner to advanced, backend development",
+      "ogTitle": "PHP, Deeply — Beginner to Advanced",
+      "ogDescription": "One long road from echo to OOP, security, PDO and 70 practice questions."
+    },
+    "typescript": {
+      "title": "TypeScript — Complete Guide | Jap App Hub",
+      "description": "Types that catch mistakes before visitors do. Interfaces, generics and the TS compiler, learned after basic JS.",
+      "keywords": "TypeScript tutorial, learn TypeScript, TypeScript types, interfaces, generics, frontend types",
+      "ogTitle": "TypeScript — Complete Guide",
+      "ogDescription": "Types that catch mistakes before visitors do. Interfaces, generics and the TS compiler."
+    },
+    "htmx": {
+      "title": "htmx 2.x — Complete Guide | Jap App Hub",
+      "description": "Click, swap, done — dynamic pages with almost no JavaScript. Hypermedia-driven apps made simple.",
+      "keywords": "htmx tutorial, htmx guide, hypermedia, htmx 2, dynamic HTML, server-driven UI",
+      "ogTitle": "htmx 2.x — Complete Guide",
+      "ogDescription": "Click, swap, done — dynamic pages with almost no JavaScript."
+    },
+    "vue3": {
+      "title": "Vue 3.5 — Complete Guide | Jap App Hub",
+      "description": "The kindest first framework. Templates that feel like plain HTML, reactivity that just works.",
+      "keywords": "Vue tutorial, Vue 3, Vue.js guide, Vue reactivity, Vue components, frontend framework",
+      "ogTitle": "Vue 3.5 — Complete Guide",
+      "ogDescription": "The kindest first framework. Templates that feel like plain HTML."
+    },
+    "react19": {
+      "title": "React 19 — Complete Guide | Jap App Hub",
+      "description": "Components, hooks and server parts. Heavier, but hiring is heavy too. The full React journey.",
+      "keywords": "React tutorial, React 19, React hooks, React components, React server components, frontend",
+      "ogTitle": "React 19 — Complete Guide",
+      "ogDescription": "Components, hooks and server parts. Heavier, but hiring is heavy too."
+    },
+    "angular21": {
+      "title": "Angular 21 — Complete Guide | Jap App Hub",
+      "description": "Signals, routing and forms in one opinionated box. Built for big teams and enterprise apps.",
+      "keywords": "Angular tutorial, Angular 21, Angular signals, Angular routing, Angular forms, enterprise frontend",
+      "ogTitle": "Angular 21 — Complete Guide",
+      "ogDescription": "Signals, routing and forms in one opinionated box. Built for big teams."
+    },
+    "bt": {
+      "title": "Tailwind CSS 4 — Complete Guide | Jap App Hub",
+      "description": "Bootstrap thinking translated to utilities, with patterns that ship fast. Modern CSS at scale.",
+      "keywords": "Tailwind tutorial, Tailwind CSS 4, utility CSS, Tailwind guide, CSS framework, responsive design",
+      "ogTitle": "Tailwind CSS 4 — Complete Guide",
+      "ogDescription": "Bootstrap thinking translated to utilities, with patterns that ship fast."
+    },
+    "bootstrap": {
+      "title": "Bootstrap 5.3 — Complete Guide | Jap App Hub",
+      "description": "Rows, columns and components that look decent on day one. The grid framework that bootstrapped the web.",
+      "keywords": "Bootstrap tutorial, Bootstrap 5, Bootstrap grid, Bootstrap components, responsive framework",
+      "ogTitle": "Bootstrap 5.3 — Complete Guide",
+      "ogDescription": "Rows, columns and components that look decent on day one."
+    },
+    "laravel13": {
+      "title": "Laravel 13 — Complete Guide | Jap App Hub",
+      "description": "Routes, Eloquent and queues — the complete artisan reference. From install to deployment.",
+      "keywords": "Laravel tutorial, Laravel 13, Laravel Eloquent, Laravel routes, PHP framework, artisan CLI",
+      "ogTitle": "Laravel 13 — Complete Guide",
+      "ogDescription": "Routes, Eloquent and queues — the complete artisan reference."
+    },
+    "laravel-api-testing": {
+      "title": "Laravel API + Testing — Complete Guide | Jap App Hub",
+      "description": "APIs, Pest tests and the N+1s interviewers love to ask about. Ship code you can prove works.",
+      "keywords": "Laravel API, Pest testing, Laravel tests, API development, N+1 problem, test-driven development",
+      "ogTitle": "Laravel API + Testing — Complete Guide",
+      "ogDescription": "APIs, Pest tests and the N+1s interviewers love to ask about."
+    },
+    "graphql": {
+      "title": "GraphQL + Laravel — Complete Guide | Jap App Hub",
+      "description": "Schemas, queries and Lighthouse, with auth and N+1 fixes. GraphQL for PHP developers.",
+      "keywords": "GraphQL tutorial, Laravel GraphQL, Lighthouse, GraphQL schema, GraphQL queries, API design",
+      "ogTitle": "GraphQL + Laravel — Complete Guide",
+      "ogDescription": "Schemas, queries and Lighthouse, with auth and N+1 fixes."
+    },
+    "symfony": {
+      "title": "Symfony 7.x — Complete Guide | Jap App Hub",
+      "description": "Console, Doctrine and API Platform, plus an honest Laravel comparison. Enterprise PHP done right.",
+      "keywords": "Symfony tutorial, Symfony 7, Doctrine ORM, API Platform, PHP framework, enterprise PHP",
+      "ogTitle": "Symfony 7.x — Complete Guide",
+      "ogDescription": "Console, Doctrine and API Platform, plus an honest Laravel comparison."
+    },
+    "cakephp": {
+      "title": "CakePHP 5.4 — Complete Guide | Jap App Hub",
+      "description": "Bake, scaffold and ship. Still running plenty of real stores. The convention-over-configuration PHP framework.",
+      "keywords": "CakePHP tutorial, CakePHP 5, CakePHP scaffold, PHP MVC, convention over configuration",
+      "ogTitle": "CakePHP 5.4 — Complete Guide",
+      "ogDescription": "Bake, scaffold and ship. Still running plenty of real stores."
+    },
+    "cakephp28": {
+      "title": "CakePHP 2.8 — Legacy Reference | Jap App Hub",
+      "description": "Only open if your job already runs it. Legacy syntax, mapped clearly for maintenance and migration.",
+      "keywords": "CakePHP 2, CakePHP legacy, CakePHP migration, PHP legacy code, CakePHP 2.8",
+      "ogTitle": "CakePHP 2.8 — Legacy Reference",
+      "ogDescription": "Only open if your job already runs it. Legacy syntax, mapped clearly."
+    },
+    "codeigniter": {
+      "title": "CodeIgniter 4.x — Complete Guide | Jap App Hub",
+      "description": "Spark commands and query builder for light hosting and fast pages. The nimble PHP framework.",
+      "keywords": "CodeIgniter tutorial, CodeIgniter 4, CI4, lightweight PHP, query builder, fast PHP framework",
+      "ogTitle": "CodeIgniter 4.x — Complete Guide",
+      "ogDescription": "Spark commands and query builder for light hosting and fast pages."
+    },
+    "codeigniter-versions": {
+      "title": "CodeIgniter Versions — Upgrade Map | Jap App Hub",
+      "description": "Which CI you have, and the full CI3-to-CI4 upgrade path. Version differences at a glance.",
+      "keywords": "CodeIgniter versions, CI3 to CI4, CodeIgniter upgrade, CI version map, CodeIgniter migration",
+      "ogTitle": "CodeIgniter Versions — Upgrade Map",
+      "ogDescription": "Which CI you have, and the full CI3-to-CI4 upgrade path."
+    },
+    "cake-upgrade-guide": {
+      "title": "CakePHP Upgrade Path — Complete Guide | Jap App Hub",
+      "description": "Step-by-step route off legacy Cake onto a supported release. Migration commands and gotchas.",
+      "keywords": "CakePHP upgrade, CakePHP migration, legacy PHP upgrade, CakePHP version upgrade",
+      "ogTitle": "CakePHP Upgrade Path — Complete Guide",
+      "ogDescription": "Step-by-step route off legacy Cake onto a supported release."
+    },
+    "node-express": {
+      "title": "Node + Express — Complete Guide | Jap App Hub",
+      "description": "Middleware, REST and JWT using the JS you already know. Backend development with Node.js.",
+      "keywords": "Node.js tutorial, Express.js guide, Node REST API, JWT authentication, middleware, backend JS",
+      "ogTitle": "Node + Express — Complete Guide",
+      "ogDescription": "Middleware, REST and JWT using the JS you already know."
+    },
+    "django": {
+      "title": "Django 5.2 — Complete Guide | Jap App Hub",
+      "description": "Models, admin and DRF. Batteries included, interviews included. Python's web framework.",
+      "keywords": "Django tutorial, Django 5, Django REST Framework, Python web framework, Django models, admin",
+      "ogTitle": "Django 5.2 — Complete Guide",
+      "ogDescription": "Models, admin and DRF. Batteries included, interviews included."
+    },
+    "wordpress": {
+      "title": "WordPress Development — Complete Guide | Jap App Hub",
+      "description": "Themes, hooks and blocks. The quickest path to paid client work. WordPress for developers.",
+      "keywords": "WordPress tutorial, WordPress development, WordPress themes, WordPress hooks, Gutenberg blocks",
+      "ogTitle": "WordPress Development — Complete Guide",
+      "ogDescription": "Themes, hooks and blocks. The quickest path to paid client work."
+    },
+    "php-cron": {
+      "title": "PHP Cron Jobs — Complete Guide | Jap App Hub",
+      "description": "Scheduled scripts that run while you sleep — batches, memory limits and logging done right.",
+      "keywords": "PHP cron, cron jobs, scheduled tasks, PHP batching, server scheduling, background jobs",
+      "ogTitle": "PHP Cron Jobs — Complete Guide",
+      "ogDescription": "Scheduled scripts that run while you sleep — batches, memory and logging."
+    },
+    "mysql": {
+      "title": "MySQL Q&A — Complete Guide | Jap App Hub",
+      "description": "Joins to replication. The interview-heavy SQL page to grind. 100+ questions with answers.",
+      "keywords": "MySQL tutorial, SQL joins, MySQL replication, database interview, SQL questions, MySQL performance",
+      "ogTitle": "MySQL Q&A — Complete Guide",
+      "ogDescription": "Joins to replication. The interview-heavy SQL page to grind."
+    },
+    "postgresql": {
+      "title": "PostgreSQL — Complete Guide | Jap App Hub",
+      "description": "JSON, full-text search and tuning for apps that outgrow basics. The advanced SQL database.",
+      "keywords": "PostgreSQL tutorial, PostgreSQL JSON, full-text search, PostgreSQL performance, SQL advanced",
+      "ogTitle": "PostgreSQL — Complete Guide",
+      "ogDescription": "JSON, full-text search and tuning for apps that outgrow basics."
+    },
+    "mongodb": {
+      "title": "MongoDB — Complete Guide | Jap App Hub",
+      "description": "Collections and aggregation pipelines for data shaped like objects, not rows. NoSQL made practical.",
+      "keywords": "MongoDB tutorial, NoSQL, MongoDB aggregation, document database, MongoDB schema, NoSQL guide",
+      "ogTitle": "MongoDB — Complete Guide",
+      "ogDescription": "Collections and pipelines for data shaped like objects, not rows."
+    },
+    "git": {
+      "title": "Git Commands — Complete Guide | Jap App Hub",
+      "description": "Every command with the situation it rescues you from. Branching, merging, rebasing and recovery.",
+      "keywords": "Git tutorial, Git commands, version control, Git branching, Git merge, Git rebase, Git recovery",
+      "ogTitle": "Git Commands — Complete Guide",
+      "ogDescription": "Every command with the situation it rescues you from."
+    },
+    "grep": {
+      "title": "grep — Complete Guide | Jap App Hub",
+      "description": "Search any codebase in seconds. 30 flags, zero fear. The terminal search tool you need.",
+      "keywords": "grep tutorial, grep flags, command line search, terminal grep, text search, regex grep",
+      "ogTitle": "grep — Complete Guide",
+      "ogDescription": "Search any codebase in seconds. 30 flags, zero fear."
+    },
+    "ls": {
+      "title": "ls — Complete Guide | Jap App Hub",
+      "description": "Every flag a–z, plus the Windows equivalents nobody tells you. List files like a pro.",
+      "keywords": "ls command, ls flags, directory listing, terminal files, command line, Windows dir equivalent",
+      "ogTitle": "ls — Complete Guide",
+      "ogDescription": "Every flag a–z, plus the Windows equivalents nobody tells you."
+    },
+    "laravel-tips": {
+      "title": "Laravel Tips — 300+ Inline Code Examples | Jap App Hub",
+      "description": "Short Eloquent and Blade wins to steal for real projects. 300+ copy-paste Laravel tips.",
+      "keywords": "Laravel tips, Eloquent tricks, Blade tips, Laravel shortcuts, Laravel best practices, PHP tips",
+      "ogTitle": "Laravel Tips — 300+ Inline Code Examples",
+      "ogDescription": "Short Eloquent and Blade wins to steal for real projects."
+    },
+    "python-tips": {
+      "title": "Python Tips — 104 Quick Wins | Jap App Hub",
+      "description": "Setup to stdlib: 104 quick Python wins with copy-paste code. From basics to advanced tricks.",
+      "keywords": "Python tips, Python tricks, Python stdlib, Python shortcuts, Python best practices, Python hacks",
+      "ogTitle": "Python Tips — 104 Quick Wins",
+      "ogDescription": "Setup to stdlib: 104 quick Python wins with copy-paste code."
+    },
+    "interview": {
+      "title": "Senior Full-Stack Developer Interview — 280+ Questions | Jap App Hub",
+      "description": "Core PHP, OOP and Laravel, written as answers you can say aloud. 280+ interview questions.",
+      "keywords": "PHP interview, Laravel interview, full-stack interview, OOP interview, coding interview questions",
+      "ogTitle": "Senior Full-Stack Developer Interview — 280+ Questions",
+      "ogDescription": "Core PHP, OOP and Laravel, written as answers you can say aloud."
+    },
+    "laravel-interview": {
+      "title": "Laravel Interview — Queue, Cache & Laravel 11+ | Jap App Hub",
+      "description": "Queues, caching and Laravel 11+ features, question by question. Master the Laravel interview.",
+      "keywords": "Laravel interview, queues, caching, Laravel 11, Laravel features, PHP interview prep",
+      "ogTitle": "Laravel Interview — Queue, Cache & Laravel 11+",
+      "ogDescription": "Queues, caching and Laravel 11+ features, question by question."
+    },
+    "interview-quiz": {
+      "title": "Interview Quiz — 150+ Flashcards | Jap App Hub",
+      "description": "150+ cards with progress tracking. Ten minutes a day counts. Flashcard-style interview prep.",
+      "keywords": "interview quiz, flashcards, PHP quiz, Laravel quiz, coding flashcards, interview flashcards",
+      "ogTitle": "Interview Quiz — 150+ Flashcards",
+      "ogDescription": "150+ cards with progress tracking. Ten minutes a day counts."
+    },
+    "practice": {
+      "title": "Practice MCQ — Multiple Choice from Real Cases | Jap App Hub",
+      "description": "Multiple choice from real cases. Wrong answers teach here. Instant feedback on every pick.",
+      "keywords": "MCQ practice, PHP MCQ, Laravel MCQ, multiple choice, coding practice, quiz practice",
+      "ogTitle": "Practice MCQ — Multiple Choice from Real Cases",
+      "ogDescription": "Multiple choice from real cases. Wrong answers teach here."
+    },
+    "problems": {
+      "title": "Coding Case Problems — Architecture Practice | Jap App Hub",
+      "description": "Architecture situations with solutions. Think before you peek. 90+ real-world coding scenarios.",
+      "keywords": "case problems, architecture practice, system design, coding scenarios, SaaS architecture, API design",
+      "ogTitle": "Coding Case Problems — Architecture Practice",
+      "ogDescription": "Architecture situations with solutions. Think before you peek."
+    },
+    "react-native": {
+      "title": "React Native — Complete Guide | Jap App Hub",
+      "description": "Only after React. One codebase, two app stores, Expo included. Mobile development for web devs.",
+      "keywords": "React Native tutorial, React Native guide, Expo, mobile development, cross-platform apps",
+      "ogTitle": "React Native — Complete Guide",
+      "ogDescription": "Only after React. One codebase, two app stores, Expo included."
+    },
+    "ai-roadmap": {
+      "title": "AI Roadmap — What to Learn After One Language | Jap App Hub",
+      "description": "What to learn after one language, in an order that stays sane. A practical AI career path.",
+      "keywords": "AI roadmap, AI career path, machine learning guide, what to learn for AI, AI learning order",
+      "ogTitle": "AI Roadmap — What to Learn After One Language",
+      "ogDescription": "What to learn after one language, in an order that stays sane."
+    }
+  }
+}
